@@ -36,19 +36,19 @@ OOP course @ HNU CE (2025 fall)
 ### Before installing
 학기 초에 시험해 본 바에 따르면 Codespace에 기본적으로 다음과 같은 python, jupyter가 설치되어 있었다.
 ```
-@~ ➜ /workspaces/oop2024fall (main) $ python --version
+@kyagrd ➜ /workspaces/oop2025fall (main) $ python --version
 Python 3.12.1
-@~ ➜ /workspaces/oop2024fall (main) $ jupyter --version
+@kyagrd ➜ /workspaces/oop2025fall (main) $ jupyter --version
 Selected Jupyter core packages...
-IPython          : 8.26.0
+IPython          : 9.4.0
 ipykernel        : 6.29.5
 ipywidgets       : not installed
-jupyter_client   : 8.6.2
-jupyter_core     : 5.7.2
-jupyter_server   : 2.14.2
-jupyterlab       : 4.2.4
-nbclient         : 0.10.0
-nbconvert        : 7.16.4
+jupyter_client   : 8.6.3
+jupyter_core     : 5.8.1
+jupyter_server   : 2.16.0
+jupyterlab       : 4.4.4
+nbclient         : 0.10.2
+nbconvert        : 7.16.6
 nbformat         : 5.10.4
 notebook         : not installed
 qtconsole        : not installed
