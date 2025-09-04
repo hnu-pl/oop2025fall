@@ -1,4 +1,0 @@
-{
-  "name": "oop2025fall Codespace",
-  "postCreateCommand": "(yes | sdk install java 22.0.2-tem) && (curl -Ls https://sh.jbang.dev | bash -s - app setup) && bash -c 'jbang --java 22 io.github.padreati:rapaio-jupyter-kernel:2.1.0 -i -auto'"
-}
